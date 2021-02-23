@@ -1,0 +1,12 @@
+name: cost_of_driving
+title: cost_of_driving
+username:
+account: collinkennedy
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3681531
+bundleId: 4258968
+url: https://collinkennedy.shinyapps.io/cost_of_driving/
+when: 1614040170.70835
+asMultiple: FALSE
+asStatic: FALSE
